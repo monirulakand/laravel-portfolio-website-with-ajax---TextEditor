@@ -1,0 +1,38 @@
+
+.wrapper-padding{
+padding: 1% 1% 1% 1% ;
+}
+.table-img{
+	width:80px;
+	height:auto;
+}
+
+.loading-icon{
+	width:140px;
+	height:auto;
+}
+
+.form-control:focus {
+  border-color: #FF0000;
+  box-shadow: none;
+}
+
+.deleteBtnColor{
+    color: #ff1605;
+}
+
+.editBtnColor{
+    color: #05a12c;
+}
+
+.count-card-text{
+	font-size: 14px;
+}
+.count-card-title{
+	font-size: 24px;
+}
+
+.card-color{
+	color: #ffffff;
+	background-color:#bd0f55;
+}
